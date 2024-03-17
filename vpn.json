@@ -1,6 +1,5 @@
 {
-    "pi3": true,
-    "sandy": true,
     "pinocchio": true,
-    "malika": true
+    "malika": false,
+    "thunder": true
 }
